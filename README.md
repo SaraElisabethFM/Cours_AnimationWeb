@@ -1,6 +1,6 @@
 # Cours_AnimationWeb
 
-##Cours_01
+#Cours_01
 
 GitHub
 VS_code
