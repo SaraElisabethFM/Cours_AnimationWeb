@@ -1,3 +1,42 @@
 span{
     color: darkturquoise;
 }
+
+p{
+    color: green;
+}
+
+h1{
+    color: hotpink;
+}
+
+* pour selectionner tout
+
+p,h1,span{color: orchid;}
+
+p span{color: midnightblue;}
+
+body*{color: orange;}
+
+
+.exemple{color: saddlebrown;}
+
+#monid{color: yellow;
+    font-size: xx-large;}
+
+.test{color: royalblue;}
+
+.classe_01{
+    width: 100px;
+    height: 100px;
+    background-color: #fa8072;
+    border: 5px solid blue
+}
+
+.classe_01 p{color: black;}
+
+#id_02{
+    width: 200px;
+    height: 200px;
+    background-color: darkgoldenrod;
+}
